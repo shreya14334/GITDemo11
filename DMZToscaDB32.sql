@@ -1,0 +1,1 @@
+select * from env_details where environment = 'Env251' or environment = 'Env262';
